@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/admin", "destination": "/admin.html" },
+    { "source": "/lawyer-portal", "destination": "/lawyer-portal.html" },
+    { "source": "/documents", "destination": "/documents.html" }
+  ]
+}
